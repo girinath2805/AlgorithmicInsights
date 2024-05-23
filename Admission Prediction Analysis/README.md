@@ -36,7 +36,7 @@
 3. **Relationship between Parameters:**
    - In this analysis, we examine the correlation coefficients between various parameters (GRE Score, TOEFL Score, etc.) and the "Chance of Admission" to determine which factors have the most significant impact on the likelihood of being admitted to a University.
 
-      ![Corelation](data.png){width = 50%}
+      ![Corelation](data.png)
 
    - Based on the correlation coefficients, we can draw the following conclusions:
       1. **CGPA has the strongest positive impact on the "Chance of Admission."** The higher the CGPA, the more likely an applicant is to be admitted.
@@ -52,7 +52,7 @@
 ### Analysis for Top-Ranked Institutions (Rating 5)
 The following correlation coefficients represent the relationship between each parameter and the "Chance of Admission" for top-ranked institutions (Rating 5):
 
-![Corelation](data2.png){width = 50%}
+![Corelation](data2.png)
 Based on the correlation coefficients for top-ranked institutions (Rating 5), we can draw the following conclusions:
 
 1. **CGPA remains the most influential factor.** A high CGPA is crucial for admission to top-ranked institutions.

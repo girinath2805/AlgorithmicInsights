@@ -26,6 +26,6 @@ This project analyzes the performance of matrix multiplication using different m
 - IPython (for `%timeit` and `%matplotlib` magic commands)
 - Cython
 
-To reproduce the results and run the analysis, follow the implementation steps provided in the accompanying Jupyter Notebook.
+To reproduce the results and run the analysis, follow the implementation steps provided in the Jupyter Notebook.
 
 ---

@@ -81,7 +81,8 @@ This variability is a fundamental characteristic of the Simulated Annealing algo
 
 We provide visual evidence of the algorithm's multiple optimizations using two images, demonstrating the different TSP paths obtained in separate runs.
 
-![On first run](test.png){width=50% height=50%}![On second run](test1.png){width=50% height=50%}
+![On first run](test.png)
+![On second run](test1.png)
 
 Bestorder on the first run : [15 14 11 17 21 26 18 24  6 36  1 16 25 39 37 28  9  0 29  5 12  4 32  7 2 35  8 27 31 13 33 30 20 19 38 10 22 34  3 23]
 

@@ -1,4 +1,4 @@
-### Matrix Multiplication Performance Analysis and Optimization
+# Matrix Multiplication Performance Analysis and Optimization
 
 This project analyzes the performance of matrix multiplication using different methods in Python and Cython. The focus is on comparing the custom matrix multiplication function with NumPy's `@` operator and `np.matmul`, and optimizing the custom implementation using Cython. The project includes:
 

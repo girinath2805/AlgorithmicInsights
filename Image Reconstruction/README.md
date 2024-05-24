@@ -10,5 +10,7 @@
 
 ## These are the image obtained for datasets given:
 
-**rx2.txt**![Description 1](test10.png)
-**rx3.txt**![Description 1](test11.png)
+**rx2.txt**
+![Description 1](test10.png)
+**rx3.txt**
+![Description 1](test11.png)

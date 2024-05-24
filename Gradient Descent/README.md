@@ -32,7 +32,7 @@ Inside the `graddesc_1d function`, the following steps are performed:
 ### a ) Simple polynomial :
 ### $f1 = x ^ 2 + 3x + 8$
 
-![Plot of f1](test.png){ width=50% height=50% style="float: right;" }
+![Plot of f1](test.png)
 
 
 - **Learning rate (lr) :**
@@ -57,7 +57,7 @@ Inside the `graddesc_1d function`, the following steps are performed:
 ### b) Trigonometric polynomial :
 
 
-### $f5 = cos^4(x) - sin^3(x) - 4sin^2(x) + cos(x) + 1$
+### $f2 = cos^4(x) - sin^3(x) - 4sin^2(x) + cos(x) + 1$
 
 
 - **Learning rate (lr) :**
@@ -69,7 +69,7 @@ Inside the `graddesc_1d function`, the following steps are performed:
 
   -  In this, you may not need a large number of iterations to reach a satisfactory solution. An iteration of 200 is conisidered reasonable for this optimization process
 
-![Plot of f5](test5.png){width=50% height=50% align="right"}
+![Plot of f5](test5.png)
 
 
 - **Observation :**
@@ -93,7 +93,7 @@ The `graddesc_2d` function performs gradient descent optimization in two dimensi
 
 Gradient descent in two dimensions (2D) operates similarly to its one-dimensional (1D) counterpart, but extends the process to optimize functions with two variables.
 
-![Plot of f3](test2.png){width=50% height=50% align="right"}
+![Plot of f3](test2.png)
 
 ### a ) $f3 = x^4 - 16x^3 + 96x^2 - 256x + y^2 - 4y + 262$
 
@@ -122,7 +122,7 @@ Gradient descent in two dimensions (2D) operates similarly to its one-dimensiona
 
   - 1500 frames were chosen in this code to strike a balance between providing a smooth and informative animation of the gradient descent process while remaining practical for computational efficiency.
 
-![Plot of f4](test4.png){width=50% height=50% align="right"}
+![Plot of f4](test4.png)
 
 - **Result :**
 

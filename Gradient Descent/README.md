@@ -69,7 +69,7 @@ Inside the `graddesc_1d function`, the following steps are performed:
 
   -  In this, you may not need a large number of iterations to reach a satisfactory solution. An iteration of 200 is conisidered reasonable for this optimization process
 
-![Plot of f2](test5.png)
+![Plot of f2](test2.png)
 
 
 - **Observation :**

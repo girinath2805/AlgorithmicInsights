@@ -93,7 +93,7 @@ The `graddesc_2d` function performs gradient descent optimization in two dimensi
 
 Gradient descent in two dimensions (2D) operates similarly to its one-dimensional (1D) counterpart, but extends the process to optimize functions with two variables.
 
-![Plot of f3](test2.png)
+![Plot of f3](test3.png)
 
 ### a ) $f3 = x^4 - 16x^3 + 96x^2 - 256x + y^2 - 4y + 262$
 
